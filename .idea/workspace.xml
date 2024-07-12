@@ -53,7 +53,20 @@
     "last_opened_file_path": "/Users/keyinstudent/Desktop/Term 4 Assignments/Stack datastructureProject_Manny_Nwokedi"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StackArrays">
+    <configuration name="StackArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks.StackArrays" />
+      <module name="Stack datastructureProject_Manny_Nwokedi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StackLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stacks.StackLinkedList" />
       <module name="Stack datastructureProject_Manny_Nwokedi" />
@@ -69,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackArrays" />
         <item itemvalue="Application.StackLinkedList" />
       </list>
     </recent_temporary>
