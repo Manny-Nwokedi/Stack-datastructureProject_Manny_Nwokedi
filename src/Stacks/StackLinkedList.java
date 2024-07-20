@@ -1,4 +1,4 @@
-
+//Stack Linked List
 package Stacks;
 
 class Node {
